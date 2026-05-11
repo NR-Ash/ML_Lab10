@@ -1,1 +1,1 @@
-# ML_Lab10
+This project demonstrates the implementation of Support Vector Machines (SVM) using Python and Scikit-learn on the Iris flower dataset. The notebook includes data visualization with Seaborn, training and testing an SVM classification model, evaluating model performance using classification metrics, and improving the model through hyperparameter tuning with GridSearchCV.
